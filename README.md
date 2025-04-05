@@ -31,19 +31,20 @@ To set up a local copy, follow these straightforward steps as outlined.
 This game has minimal prerequisites, requiring only a web browser that supports HTML5 and CSS3.
 
 ## Setting up
-1. Open up your terminal
-2. Clone the repo 
+1. Open up your terminal.
+2. Clone the repo.
    ```
    git clone https://github.com/Skylar-KyiShinKhant/Educational-Agent.git
    ```
-3. Change the directory
+3. Change the directory.
    ```
    cd Educational-Agent
    ```
-4. Open HTML file in Browser
+4. Open HTML file in Browser.
    ```
    open index.html
    ```
+5. Or click on the header link for a demo experience.
 
 ## Contributing
 We love contributions — they're what make the open-source community awesome! Your ideas to improve this website are welcome. Feel free to fork the repository, submit a pull request. And of course, your support by giving the project a star would be appreciated! Thanks for being part of it!
